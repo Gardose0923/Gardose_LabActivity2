@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_activity_title">Login Activity</string>
+    <string name="instruction_message">Please enter your username and password below to login:</string>
+    <string name="username_label">Enter your username:</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="password_label">Enter your password:</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="login_button_text">LOGIN</string>
+    <string name="add_text_validation">Please fill in all form fields</string>
+    <string name="login_failed">Login failed. Please check your credentials.</string>
+    <string name="login_success">Welcome %s!</string>
+</resources>
